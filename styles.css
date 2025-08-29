@@ -6,7 +6,7 @@
 *{box-sizing:border-box}
 body{font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial; margin:0; background:var(--bg); color:#0f1724; line-height:1.4}
 .container{max-width:1100px; margin:0 auto; padding:20px}
-.nav{background:rgba(255,255,255,0.8); border-bottom:1px solid #e6edf3; position:sticky; top:0; z-index:10}
+.nav{background:rgba(255,255,255,0.8); border-bottom:1px solid #aecfea; position:sticky; top:0; z-index:10}
 .nav .container{display:flex; align-items:center; justify-content:space-between}
 .brand{display:flex; gap:12px; align-items:center}
 .logo{width:60px; height:60px; border-radius:12px; display:grid; place-items:center; background:var(--primary); color:#fff; font-weight:700; font-size: 20px;}
